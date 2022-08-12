@@ -1350,7 +1350,7 @@ while(valid!=true){
 ///creditos
   printf("\n\n\n==============\n\n");
   printf("(V)\n(. .)\nc(”)(”) ");
-  printf("Jogo realizado por:\n\nGiovanna Thaís Pfleger Mendes.\nLuís Eduardo Zordan.\n\n\n==============\n\nAgradecimentos especiais:\na você jogador, por ter jogado nosso jogo\n\n\n==============\n\n\nSe você curtiu nosso jogo, vota na gente! :)");
+  printf("Jogo realizado por:\n\nSam Pfleger Mendes.\n@Misomania.\n\n\n==============\n\nAgradecimentos especiais:\na você jogador, por ter jogado nosso jogo\n\n\n==============\n\n\nSe você curtiu nosso jogo, vota na gente! :)");
   return 0;
 }
   
